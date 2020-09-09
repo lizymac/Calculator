@@ -49,7 +49,7 @@ function calculator() {
   output.setAttribute("type", "text");
   output.classList.add("output");
   output.style.width = "90%";
-  output.style.margin = "4% 4%";
+  //output.style.margin = "4% 4%";
   output.style.lineHeight = "50px";
   output.style.fontSize = "3rem";
   output.style.textAlign = "right";
